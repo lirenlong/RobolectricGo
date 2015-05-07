@@ -9,9 +9,13 @@ android {
     }
 
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_6
-        targetCompatibility JavaVersion.VERSION_1_6
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
     }
+//  The android.jar file that is used to run unit tests does not contain any actual code - that is provided by the Android system image on real devices. set true if you don't want that.
+//    testOptions {
+//        unitTests.returnDefaultValues = true
+//    }
 }
 
 dependencies {
