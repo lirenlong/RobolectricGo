@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.activity.MainActivityTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2015-05-07T03:06:16" hostname="lirenlrldeMacBook-Pro.local" time="6.734">
+  <properties/>
+  <testcase name="onCreate_shouldInflateLayout" classname="com.example.activity.MainActivityTest" time="6.486"/>
+  <testcase name="clickMenuItem_shouldDelegateClickToFragment" classname="com.example.activity.MainActivityTest" time="0.247"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

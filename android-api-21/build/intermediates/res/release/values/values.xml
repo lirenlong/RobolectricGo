@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/liren/code/robolectric/robolectric-samples/android-api-21/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="application">Robolectric</string>
+    <string name="menu_item_1">First menu item</string>
+    <string name="menu_item_2">Second menu item</string>
+    <!-- From: file:/Users/liren/code/robolectric/robolectric-samples/android-api-21/src/main/res/values/theme.xml -->
+    <eat-comment/>
+    <style name="Theme.MyTheme" parent="@android:style/Theme.Light">
+
+        <!-- Disable action bar -->
+        <item name="android:windowActionBar">false</item>
+
+        <!-- Set AppCompat’s color theming attrs -->
+        <item name="android:colorPrimary">#445566</item>
+        <item name="android:colorPrimaryDark">#223344</item>
+    </style>
+</resources>

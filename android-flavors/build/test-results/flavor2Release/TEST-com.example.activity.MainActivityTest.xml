@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.activity.MainActivityTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-05-07T03:06:52" hostname="lirenlrldeMacBook-Pro.local" time="5.303">
+  <properties/>
+  <testcase name="shouldUseCorrectApplicatioName" classname="com.example.activity.MainActivityTest" time="5.303"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
