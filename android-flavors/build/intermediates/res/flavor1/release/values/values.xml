@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- From: file:/Users/liren/code/robolectric/robolectric-samples/android-flavors/src/flavor1/res/values/strings.xml -->
-    <eat-comment/>
-    <string name="application">Robolectric Flavor 1</string>
-</resources>
